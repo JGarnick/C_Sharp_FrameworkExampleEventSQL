@@ -1,0 +1,33 @@
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventClasses\obj\Debug\EventClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\obj\Debug\EventClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventDBClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\EventPropsClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventClasses\bin\Debug\ToolsCSharp.pdb

@@ -1,0 +1,21 @@
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEvent\EventProps\obj\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.csprojResolveAssemblyReference.cache
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.dll
+C:\Courses\CS234CSharp\Demos\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\bin\Debug\EventPropsClasses.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\bin\Debug\ToolsCSharp.pdb
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.dll
+C:\Users\Christina\Desktop\Advanced C#\Lab 6\FrameworkExampleEventSQL\EventProps\obj\Debug\EventPropsClasses.pdb

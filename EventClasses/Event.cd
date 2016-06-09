@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EventClasses.Event">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAggEgAAAAAAAgAAAUAAAABAAAAAAAAAAI=</HashCode>
+      <FileName>Event.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ToolsCSharp.BaseBusiness">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EventPropsClasses.EventProps">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Right" Position="0.649" />
+  </Class>
+  <Class Name="EventDBClasses.EventSQLDB">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Orientation="Right" Position="0.42" />
+  </Class>
+  <Class Name="ToolsCSharp.BaseSQLDB">
+    <Position X="3" Y="4.5" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="ToolsCSharp.IBaseProps">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ToolsCSharp.IReadDB">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="ToolsCSharp.IWriteDB">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

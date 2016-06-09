@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfProductProps xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductProps>
+    <id>2</id>
+    <code>P200</code>
+    <description>This is the description of the second product</description>
+    <unitPrice>200</unitPrice>
+    <onHandQuantity>20</onHandQuantity>
+    <concurrencyID>0</concurrencyID>
+  </ProductProps>
+</ArrayOfProductProps>
